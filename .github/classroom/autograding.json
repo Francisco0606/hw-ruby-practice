@@ -1,0 +1,34 @@
+{
+  "tests": [
+    {
+      "name": "Part 1",
+      "setup": "sudo gem install bundler && sudo bundle install",
+      "run": "rspec spec/part1_spec.rb",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 30
+    },
+    {
+      "name": "Part 2",
+      "setup": "sudo gem install bundler && sudo bundle install",
+      "run": "rspec spec/part2_spec.rb",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 30
+    },
+    {
+      "name": "Part 3",
+      "setup": "sudo gem install bundler && sudo bundle install",
+      "run": "rspec spec/part2_spec.rb",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 40
+    }
+  ]
+}
